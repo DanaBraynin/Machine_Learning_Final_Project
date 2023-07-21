@@ -1,4 +1,4 @@
-# Machine_Learning_Final_Project
+# Machine Learning Final Project
 This project was done as a final project as part of a Machine Learning course at Tel Aviv University.
 We were given information about several features of executable files (.exe)and were asked to build a model that predicts the chance of a particular file to be malicious through static analysis of the files.
 This project is a binary classification problem in which we classified files into two categories - is the file malicious (1) or not (0), based on the features in the data set. Some of the features we received are known and some are anonymous.
