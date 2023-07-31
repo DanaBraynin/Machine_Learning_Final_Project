@@ -8,4 +8,4 @@ We achieved a test AUC score of 0.9579 using "XGBoost classifier".<br>
 We recieved a score of 95 on this project.<br><br>
 The project is in Jupyter Notebook in Python and Markdown.<br><br>
 
-<img src="https://github.com/DanaBraynin/Machine_Learning_Final_Project/assets/114236961/78ec6bbe-dcda-44e4-afdd-49ddb56e0393" width="90" height="90">
+<img src="https://github.com/DanaBraynin/Machine_Learning_Final_Project/assets/114236961/78ec6bbe-dcda-44e4-afdd-49ddb56e0393" width="100" height="100">
