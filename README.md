@@ -6,4 +6,5 @@ This project is a binary classification problem in which we classified files int
 we received 60,000 observations that were classified as a malicious/non-malicious file. We analyze the given data, processed it and selected the best model to predict the patterns in the unseen test data.<br><br>
 We achieved a test AUC score of 0.9579 using "XGBoost classifier".<br>
 We recieved a score of 95 on this project.<br><br>
-The project is in Jupyter Notebook in Python and Markdown.
+The project is in Jupyter Notebook in Python and Markdown.<br><br>
+![Final project (1)](https://github.com/DanaBraynin/Machine_Learning_Final_Project/assets/114236961/7baa7336-f0a0-4e95-b963-1068e0e98c66)
