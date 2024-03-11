@@ -8,3 +8,6 @@ We received 60,000 observations that were classified as a malicious/non-maliciou
 We achieved a test AUC score of 0.9579 using "XGBoost classifier".<br>
 We recieved a score of 95 on this project.<br><br>
 The project is in Jupyter Notebook in Python and Markdown.<br><br>
+
+[report cover.pdf](https://github.com/DanaBraynin/Machine_Learning_Final_Project/files/14555538/report.cover.pdf)
+
